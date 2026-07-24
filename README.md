@@ -1,6 +1,5 @@
 # Practicing-using-LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
+Daily LeetCode practice to strengthen SQL, database fundamentals, Java programming, and data structures & algorithms. Learning one problem at a time.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
