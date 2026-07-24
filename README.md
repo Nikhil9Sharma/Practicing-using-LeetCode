@@ -41,8 +41,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0389-find-the-difference) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0389-find-the-difference) |
+## Array
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Math
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
