@@ -41,6 +41,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -63,4 +64,8 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
