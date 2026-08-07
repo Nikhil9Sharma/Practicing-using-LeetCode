@@ -55,6 +55,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 ## Array
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -68,4 +69,8 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
