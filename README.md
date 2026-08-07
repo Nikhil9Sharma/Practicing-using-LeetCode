@@ -16,6 +16,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 | [0596-classes-with-at-least-5-students](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
