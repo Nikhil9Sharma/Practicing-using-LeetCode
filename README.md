@@ -34,6 +34,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 | [1729-find-followers-count](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1934-confirmation-rate](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
