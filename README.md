@@ -65,6 +65,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0009-palindrome-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
