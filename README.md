@@ -60,12 +60,14 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0066-plus-one) |
 | [1929-concatenation-of-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0066-plus-one) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
