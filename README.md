@@ -54,6 +54,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0389-find-the-difference) |
 ## Array
 |  |
@@ -61,6 +62,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0088-merge-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -77,6 +79,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
