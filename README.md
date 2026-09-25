@@ -49,6 +49,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0389-find-the-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
@@ -64,6 +65,7 @@ Daily LeetCode practice to strengthen SQL, database fundamentals, Java programmi
 | [0066-plus-one](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/0136-single-number) |
 | [1929-concatenation-of-array](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nikhil9Sharma/Practicing-using-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
